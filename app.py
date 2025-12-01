@@ -18,8 +18,8 @@ st.markdown(
 
 # ------------------------- Spotify Authentication ------------------------- #
 # Hardcoded credentials from you:
-spotify_client_id = "9fa853af7e244c83857bcad982f34f20"
-spotify_client_secret = "912a5c12b6454a67bc068fabcfb9106b"
+spotify_client_id = "*************"
+spotify_client_secret = "***********"
 
 try:
     client_credentials_manager = SpotifyClientCredentials(
